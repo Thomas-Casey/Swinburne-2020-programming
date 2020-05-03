@@ -1,0 +1,11 @@
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\bin\Debug\netcoreapp3.1\C# Task.exe
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\bin\Debug\netcoreapp3.1\C# Task.deps.json
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\bin\Debug\netcoreapp3.1\C# Task.runtimeconfig.json
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\bin\Debug\netcoreapp3.1\C# Task.runtimeconfig.dev.json
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\bin\Debug\netcoreapp3.1\C# Task.dll
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\bin\Debug\netcoreapp3.1\C# Task.pdb
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\obj\Debug\netcoreapp3.1\C# Task.csprojAssemblyReference.cache
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\obj\Debug\netcoreapp3.1\C# Task.AssemblyInfoInputs.cache
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\obj\Debug\netcoreapp3.1\C# Task.AssemblyInfo.cs
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\obj\Debug\netcoreapp3.1\C# Task.dll
+C:\Users\Thomas Casey\Desktop\Git copys\C# Task\obj\Debug\netcoreapp3.1\C# Task.pdb
